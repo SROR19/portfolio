@@ -1,5 +1,5 @@
 # Financial-Consumer-Analysis
-A collaborative project by Abdelrahman Ashour and Saher Mohammed
+
 
 ---
 
@@ -14,7 +14,7 @@ A collaborative project by Abdelrahman Ashour and Saher Mohammed
 8. [Contact Information](#contact-information)
 
 ## Introduction
-This project represents a collaborative effort between Abdelrahman Ashour and Saher Mohammed to analyze the Financial-Consumer dataset. The aim is to derive insightful analytics and facilitate data-driven decision-making. This project is particularly suitable for those interested in data analysis and dashboards using Python and Power BI.
+This project represents analyze the Financial-Consumer dataset. The aim is to derive insightful analytics and facilitate data-driven decision-making. This project is particularly suitable for those interested in data analysis and dashboards using Python and Power BI.
 
 ## Overview Dashboard
 ![Dashboard](https://github.com/sahermuhamed1/Financial-Consumer-Data/blob/main/Dashboard0.png)
